@@ -1,5 +1,5 @@
 
-syn.queue_on_teleport(tostring("https://gist.githubusercontent.com/gmoney69420/436555454f45ac262eefaf8ab8631728/raw/361a548ac281d105463d00a32c57cdd31f9b2f1d/AntiLagEggOpen.lua"))
+syn.queue_on_teleport(tostring("https://raw.githubusercontent.com/gmoney69420/EggOpen/main/EggOpen.lua"))
 local playername = game.Players.LocalPlayer.Name
 local ts = game:GetService("TeleportService")
 local p = game:GetService("Players").LocalPlayer
